@@ -11,12 +11,19 @@ Python3
 ### Installing 
 Please follow the instruction to set up prerequsite 
 1. Clone the Repository to your computer
+
 2. Set up the virtual environment by doing the following:
+
 - Create a new virtual environment:
-'virtualenv myenv'
+
+'''virtualenv myenv'''
+
 - Activate the virtual environment
-If you are in MAC, run 'source myenv/bin/activate'
-If you are in Windows, run 'activate.bat'
+
+If you are in MAC, run '''source myenv/bin/activate'''
+
+If you are in Windows, run '''activate.bat'''
+
 - Verify that there are no modules installed by pip, and then do a pip install from requirements.txt. You should see the following list of modules:
 (myenv) $ pip freeze
 (myenv) $ pip install -r requirements.txt

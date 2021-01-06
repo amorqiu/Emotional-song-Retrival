@@ -4,5 +4,7 @@ This is the reposirtory for a emotional based song retrival system using LSTM an
 
 # Getting Started
 To run this model, simple run
+
 ``` model.py ``` in Windows Terminal
+
 ``` python model.py ``` in Mac Terminal

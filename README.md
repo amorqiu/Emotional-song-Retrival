@@ -60,5 +60,5 @@ smart-open==4.1.0
 tqdm==4.55.1
 
 To run this model, simple run
-``` app.py ``` in Windows Terminal
-``` python app.py ``` in Mac Terminal
+``` Prediction_Model.py ``` in Windows Terminal
+``` python Prediction_Model.py ``` in Mac Terminal
